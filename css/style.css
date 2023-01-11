@@ -1,0 +1,18 @@
+.h-one{
+
+    color: rgb(188, 255, 255);
+    text-shadow: 2px 2px 4px #000000;
+    font-family: 'Times New Roman', Times, serif;
+    
+}
+
+.h-one:hover{
+
+    color: red;
+    text-shadow:2px 2px 6px rgb(4, 7, 37);
+    transition: 0.3s;
+    cursor: pointer;
+
+}
+    
+  
